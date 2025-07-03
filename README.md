@@ -31,7 +31,8 @@
 | Epochs          | 10        |
 | Batch Size      | 64        |
 
-<img src="images/performance_plot.png" width="600">
+![image](https://github.com/user-attachments/assets/0264979d-cb78-4be9-954f-d24eecbd2bb8)
+
 
 ---
 
