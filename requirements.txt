@@ -1,0 +1,9 @@
+
+---
+
+## 📄 requirements.txt
+
+```txt
+tensorflow
+matplotlib
+numpy
